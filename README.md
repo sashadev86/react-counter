@@ -26,7 +26,7 @@
   npm run deploy
 ```
 
-### Deploy: [Product cart](https://banditos86.github.io/react-counter/ "Product cart")
+### Deploy: [React Counter](https://banditos86.github.io/react-counter/ "Product cart")
 
 ### Результат:
-[![Product cart](https://github.com/BANDITOS86/my-img/blob/main/counter.png?raw=true)](https://banditos86.github.io/react-counter/)
+[![React Counter](https://github.com/BANDITOS86/my-img/blob/main/counter.png?raw=true)](https://banditos86.github.io/react-counter/)
