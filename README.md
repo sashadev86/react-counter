@@ -5,9 +5,9 @@
 
 ### Демонстрация:
 
-* Для демонстрации проекта можно перейти по ссылке и просмотреть [deploy](https://banditos86.github.io/react-counter/ "React Counter"), либо скачать репозиторий из ветки dev:
+* Для демонстрации проекта можно перейти по ссылке и просмотреть [deploy](https://sashadev86.github.io/react-counter/ "React Counter"), либо скачать репозиторий из ветки dev:
 ```javascript
-  https://github.com/BANDITOS86/react-counter/tree/dev
+  https://github.com/sashadev86/react-counter/tree/dev
 ```
 * После скачивания репозитория, для подтягивания всех зависимостей в терминале запустите команду:
 ```javascript
@@ -26,7 +26,7 @@
   npm run deploy
 ```
 
-### Deploy: [React Counter](https://banditos86.github.io/react-counter/ "Product cart")
+### Deploy: [React Counter](https://sashadev86.github.io/react-counter/ "Product cart")
 
 ### Результат:
-[![React Counter](https://github.com/BANDITOS86/my-img/blob/main/counter.png?raw=true)](https://banditos86.github.io/react-counter/)
+[![React Counter](https://github.com/sashadev86/my-img/blob/main/counter.png?raw=true)](https://sashadev86.github.io/react-counter/)
